@@ -1,8 +1,5 @@
-# Coding ACM Fellowship Repository
-
-![Coding ACM Fellowship]([link-to-image](https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063649015585&tbnid=fOihcXUEA5OqDM&vet=12ahUKEwj-ldStgK2AAxWEnCcCHTraAsQQMygAegUIARCdAQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FUETACM%2F&docid=MFJRLLVPdW-gXM&w=468&h=468&q=acm%20uet&ved=2ahUKEwj-ldStgK2AAxWEnCcCHTraAsQQMygAegUIARCdAQ))
-
-Welcome to my Coding ACM Fellowship repository! This repository serves as a collection of my practice code, LeetCode problem solutions, and other coding challenges completed during my ACM Fellowship journey. Feel free to explore the various folders and files to learn more about my coding progress and problem-solving skills.
+#Welcome to my Coding ACM Fellowship repository! 
+This repository serves as a collection of my practice code, LeetCode problem solutions, and other coding challenges completed during my ACM Fellowship journey. Feel free to explore the various folders and files to learn more about my coding progress and problem-solving skills.
 
 ## Table of Contents
 
